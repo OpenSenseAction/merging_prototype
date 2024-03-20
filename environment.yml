@@ -2,6 +2,7 @@ name: merging_prototype
 channels:
   - conda-forge
 dependencies:
+ - wradlib
  - numpy
  - scipy
  - pandas
@@ -13,4 +14,3 @@ dependencies:
  - shapely
  - pycomlink
  - ipywidgets
- - wradlib
