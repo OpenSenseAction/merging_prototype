@@ -3,14 +3,3 @@ channels:
   - conda-forge
 dependencies:
  - wradlib
- - numpy
- - scipy
- - pandas
- - matplotlib
- - numba
- - xarray
- - sparse
- - netcdf4
- - shapely
- - pycomlink
- - ipywidgets
