@@ -13,3 +13,4 @@ dependencies:
  - shapely
  - pycomlink
  - ipywidgets
+ - wradlib
