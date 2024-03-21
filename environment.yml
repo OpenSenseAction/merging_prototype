@@ -1,7 +1,6 @@
 name: merging_prototype
 channels:
-  - conda-forge
-  - anaconda
+ - conda-forge
 dependencies:
  - python=3.10
  - wradlib
