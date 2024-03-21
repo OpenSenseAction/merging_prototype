@@ -2,14 +2,5 @@ name: merging_prototype
 channels:
   - conda-forge
 dependencies:
- - numpy
- - scipy
- - pandas
- - matplotlib
- - numba
- - xarray
- - sparse
- - netcdf4
- - shapely
+ - wradlib
  - pycomlink
- - ipywidgets
