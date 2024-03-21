@@ -1,8 +1,9 @@
 name: merging_prototype
 channels:
   - conda-forge
+  - anaconda
 dependencies:
- - python=3.9.18
+ - python=3.9
  - ipykernel
  - wradlib
  - pycomlink
