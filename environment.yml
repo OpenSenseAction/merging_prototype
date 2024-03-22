@@ -2,6 +2,12 @@ name: merging_prototype
 channels:
   - conda-forge
 dependencies:
-  - python=3.10.12
-  - wradlib
   - pycomlink
+  # depenendencies of poligrain (maybe mostly covered by pycomlink)
+  - netcdf4
+  - xarray
+  - matplotlib
+  - pyproj
+  - scipy
+  - sparse
+  - shapely
