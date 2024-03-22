@@ -4,7 +4,4 @@
 
 Preliminary example notebook for showcasing merging of radar, gauge and CML data
 
-Goal for meeting in Prague:
-- working example notebook that can be run locally
-- (maybe run online via binder)
-- use imports from `poligrain` instead of old `ragali` prototype functions
+A very simple roadmap for the next steps is in [this issue](https://github.com/OpenSenseAction/merging_prototype/issues/1)
