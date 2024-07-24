@@ -3,12 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - poligrain>=0.0.5
   - pycomlink
-  # depenendencies of poligrain (maybe mostly covered by pycomlink)
-  - netcdf4
-  - xarray
-  - matplotlib
-  - pyproj
-  - scipy
-  - sparse
-  - shapely
